@@ -145,4 +145,4 @@ We've also extracted controller code into our service object and refactored our 
 
 For extra practice, finish extracting the rest of the Foursquare API calls in our Coffee Shop application so that all of the Foursquare logic is in our `FoursquareService`.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/web-service-objects-readme' title='Service Objects'>Service Objects</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Service Objects</p>
